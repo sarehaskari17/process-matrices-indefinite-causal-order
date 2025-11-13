@@ -3,7 +3,7 @@ Simulation of the causal inequality and its violation using a toy model inspired
 ## 📄 Materials
 
 - **Study Notes (PDF):**  
-  [`process_matrices_indefinite_causal_order.pdf`](process_matrices_indefinite_causal_order.pdf)
+  [`Process_Matrices_and_Indefinite_Causal_Order.pdf`](process_matrices_indefinite_causal_order.pdf)
 
 - **Jupyter Notebook:**  
   [`process_matrix_notes.ipynb`](process_matrix_notes.ipynb)
