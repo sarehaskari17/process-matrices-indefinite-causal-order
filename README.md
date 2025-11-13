@@ -8,7 +8,9 @@ Simulation of the causal inequality and its violation using a toy model inspired
   [Process_Matrices_and_Indefinite_Causal_Order.pdf](Process_Matrices_and_Indefinite_Causal_Order.pdf)
 
 - **Jupyter Notebook:**  
-  [process_matrix_notes.ipynb](process_matrix_notes.ipynb)
+  - **Jupyter Notebook:**  
+  [causal_game_simulation.ipynb](causal_game_simulation.ipynb)
+
 
 > 📝 **A small note for readers**  
 > I originally made these notes and small simulations a few months ago. They were scattered across different notebooks and loose files,
