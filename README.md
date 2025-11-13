@@ -2,11 +2,14 @@
 Simulation of the causal inequality and its violation using a toy model inspired by the Oreshkov–Costa–Brukner process matrix framework. Includes a causal game simulator, noncausal correlations, and visual demonstration of indefinite causal order.
 ## 📄 Materials
 
+## Materials
+
 - **Study Notes (PDF):**  
-  [`Process_Matrices_and_Indefinite_Causal_Order.pdf`](process_matrices_indefinite_causal_order.pdf)
+  [Process_Matrices_and_Indefinite_Causal_Order.pdf](Process_Matrices_and_Indefinite_Causal_Order.pdf)
 
 - **Jupyter Notebook:**  
-  [`process_matrix_notes.ipynb`](ausal_game_simulation.ipynb)
+  [process_matrix_notes.ipynb](process_matrix_notes.ipynb)
+
 > 📝 **A small note for readers**  
 > I originally made these notes and small simulations a few months ago. They were scattered across different notebooks and loose files,
 > so I finally found some free time to clean everything up, organize it properly, and share it here
