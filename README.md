@@ -8,7 +8,6 @@ Simulation of the causal inequality and its violation using a toy model inspired
   [Process_Matrices_and_Indefinite_Causal_Order.pdf](Process_Matrices_and_Indefinite_Causal_Order.pdf)
 
 - **Jupyter Notebook:**  
-  - **Jupyter Notebook:**  
   [causal_game_simulation.ipynb](causal_game_simulation.ipynb)
 
 
